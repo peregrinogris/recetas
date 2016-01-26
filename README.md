@@ -13,6 +13,7 @@
 
 ## Acompañamientos :fries:
  * [Chimichurri](recetas/chimichurri.md)
+ * [Escabeche de Pollo](recetas/escabeche-pollo.md)
  * [Masa Común de tarta](recetas/tarta-masa.md)
  * [Masa de Pizza](recetas/pizza-masa.md)
  * [Pepinos en conserva](recetas/pepinos-conserva.md)
