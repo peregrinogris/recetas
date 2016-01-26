@@ -12,6 +12,7 @@
  * [Tarta Mixta de Berenjenas y Zapallitos](recetas/tarta-berenjena-zapallito.md)
 
 ## Acompañamientos :fries:
+ * [Cebollas Caramelizadas](recetas/cebollas-caramelizadas.md)
  * [Chimichurri](recetas/chimichurri.md)
  * [Masa Común de tarta](recetas/tarta-masa.md)
  * [Masa de Pizza](recetas/pizza-masa.md)
